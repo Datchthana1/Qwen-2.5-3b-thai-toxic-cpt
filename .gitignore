@@ -1,0 +1,5 @@
+qwen2.5-cpt-thai-toxic/
+cpt-lora-adapter/
+__pycache__/
+*.py[cod]
+.env
